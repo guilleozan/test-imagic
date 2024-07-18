@@ -1,0 +1,22 @@
+dateModified: 1721274066
+email:
+  fromEmail: guilleozan25@gmail.com
+  fromName: test
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0ad4f2e4-2322-4dd0-8f4a-ffdfcafaa36b: test # test
+    0cc2a3e1-d27c-4f92-b13a-19a7c53e98e5: test # test
+system:
+  edition: solo
+  live: true
+  name: test
+  schemaVersion: 5.0.0.21
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
