@@ -1,22 +1,26 @@
-dateModified: 1721274066
+dateModified: 1721790305
 email:
   fromEmail: guilleozan25@gmail.com
-  fromName: test
+  fromName: 'Test Ddev'
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
-    0ad4f2e4-2322-4dd0-8f4a-ffdfcafaa36b: test # test
-    0cc2a3e1-d27c-4f92-b13a-19a7c53e98e5: test # test
+    6a6e7b20-0d8d-4188-9054-907ecae800b0: 'Test Ddev' # Test Ddev
+    24c1d525-79c7-4afd-b481-98a7f3aa934c: 'Public Schema' # Public Schema
+    612ae082-1c49-4144-83da-4f4e8f263cb0: Common # Common
+    8765038c-f3e1-4df7-9113-66ed2291c1d3: Photos # Photos
+    31037613-c6a8-4370-8c9c-835060e195ac: Slider # Slider
+    d6b24a13-79bf-4f1a-92b1-5f79e190a7fc: Slider # Slider
+    f560a16e-a528-41e1-b75b-c41d266859d5: 'Test Ddev' # Test Ddev
 system:
   edition: solo
   live: true
-  name: test
-  schemaVersion: 5.0.0.21
+  name: 'Test Ddev'
+  schemaVersion: 4.5.3.0
   timeZone: America/Los_Angeles
 users:
   allowPublicRegistration: false
   defaultGroup: null
   photoSubpath: null
   photoVolumeUid: null
-  require2fa: false
   requireEmailVerification: true

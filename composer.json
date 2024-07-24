@@ -21,11 +21,11 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "craftcms/cms": "^5.0.0",
+    "craftcms/cms": "^4.0.0",
     "vlucas/phpdotenv": "^5.4.0"
   },
   "require-dev": {
-    "craftcms/generator": "^2.0.0",
+    "craftcms/generator": "^1.0.0",
     "yiisoft/yii2-shell": "^2.0.3"
   },
   "autoload": {
